@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Template used:
 
 Template Name: Siimple
 Template URL: https://bootstrapmade.com/free-bootstrap-landing-page/
